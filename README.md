@@ -1,4 +1,4 @@
 # gittest
 
-Open imWell--test1 in repository
+Open imWell--test(1).bubble file located in repository
 Click "view raw" to view code 
